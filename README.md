@@ -1,8 +1,8 @@
 # EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC-
-## NAME:
-## REGISTER NUMBER:
-## DEPARTMENT:
-## YEAR:
+## NAME: KANAGAVEL R
+## REGISTER NUMBER: 212223040085
+## DEPARTMENT: CSE
+## YEAR: 3RD
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
@@ -67,7 +67,16 @@ Down Counter (CTD): The output should activate when the count reaches zero.
 Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
 
 ### Simulation Screenshots:
-(Add screenshots of the ladder logic and counter operations in the simulation software.)
+
+<img width="1833" height="969" alt="Screenshot 2025-10-09 094440" src="https://github.com/user-attachments/assets/3538e9c3-0cc3-4634-b441-1844feda73bd" />
+
+<img width="1812" height="961" alt="Screenshot 2025-10-09 094455" src="https://github.com/user-attachments/assets/5ec2414d-60bb-42c7-a664-840671ee00af" />
+
+<img width="1823" height="963" alt="Screenshot 2025-10-09 094510" src="https://github.com/user-attachments/assets/20058778-b3e7-412e-a1b4-f512e158f31f" />
+
+<img width="1824" height="969" alt="Screenshot 2025-10-09 094530" src="https://github.com/user-attachments/assets/98ab01f3-bceb-4007-9c68-18d9ff79b8d4" />
+
+<img width="1814" height="967" alt="Screenshot 2025-10-09 094542" src="https://github.com/user-attachments/assets/ea1d17ce-b555-4bd2-8dce-d31d3029c547" />
 
 ### Results:
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
