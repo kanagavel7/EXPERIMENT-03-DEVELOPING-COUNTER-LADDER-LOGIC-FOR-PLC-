@@ -68,15 +68,61 @@ Up/Down Counter (CTUD): The output should activate when the count reaches the pr
 
 ### Simulation Screenshots:
 
-<img width="1833" height="969" alt="Screenshot 2025-10-09 094440" src="https://github.com/user-attachments/assets/3538e9c3-0cc3-4634-b441-1844feda73bd" />
+### Counter:
 
-<img width="1812" height="961" alt="Screenshot 2025-10-09 094455" src="https://github.com/user-attachments/assets/5ec2414d-60bb-42c7-a664-840671ee00af" />
+<img width="1752" height="925" alt="Screenshot 2025-11-19 181459" src="https://github.com/user-attachments/assets/5199e8f6-334d-476f-abdc-54964885ab8c" />
 
-<img width="1823" height="963" alt="Screenshot 2025-10-09 094510" src="https://github.com/user-attachments/assets/20058778-b3e7-412e-a1b4-f512e158f31f" />
+<img width="1732" height="862" alt="Screenshot 2025-11-19 181514" src="https://github.com/user-attachments/assets/0a325ab7-16d2-47fd-8272-91f0c48cbd2f" />
 
-<img width="1824" height="969" alt="Screenshot 2025-10-09 094530" src="https://github.com/user-attachments/assets/98ab01f3-bceb-4007-9c68-18d9ff79b8d4" />
+<img width="1741" height="867" alt="Screenshot 2025-11-19 181528" src="https://github.com/user-attachments/assets/d0bc2f4e-ebf3-482a-9c4a-15e0c9511586" />
 
-<img width="1814" height="967" alt="Screenshot 2025-10-09 094542" src="https://github.com/user-attachments/assets/ea1d17ce-b555-4bd2-8dce-d31d3029c547" />
+<img width="1739" height="866" alt="Screenshot 2025-11-19 181544" src="https://github.com/user-attachments/assets/7fe0874c-d5f0-46d7-b772-a332a1480fb1" />
+
+<img width="1736" height="864" alt="Screenshot 2025-11-19 181559" src="https://github.com/user-attachments/assets/986703a9-f10e-47b3-b53f-cbc4e00a971b" />
+
+<img width="1747" height="865" alt="Screenshot 2025-11-19 181612" src="https://github.com/user-attachments/assets/4e13abc6-b57a-4edb-a054-a96999b3072a" />
+
+### Up Counter:
+
+<img width="1744" height="923" alt="Screenshot 2025-11-19 181839" src="https://github.com/user-attachments/assets/50b55745-0b36-4927-b0db-f5fd1e7c6c0f" />
+
+<img width="1647" height="353" alt="Screenshot 2025-11-19 181939" src="https://github.com/user-attachments/assets/31bca990-d54e-4d2c-bb36-431c6781b9f9" />
+
+<img width="1869" height="255" alt="Screenshot 2025-11-19 181853" src="https://github.com/user-attachments/assets/df386615-fb00-4384-a6ac-91923202049f" />
+
+### Down Counter:
+
+<img width="1567" height="707" alt="Screenshot 2025-11-19 182041" src="https://github.com/user-attachments/assets/1ea5696f-b1da-4e83-9da7-490127feadaf" />
+
+<img width="1559" height="419" alt="Screenshot 2025-11-19 182053" src="https://github.com/user-attachments/assets/5e66aadc-0ed0-4a95-bc6c-64da6f5ef267" />
+
+<img width="1578" height="241" alt="Screenshot 2025-11-19 182105" src="https://github.com/user-attachments/assets/3f8449f2-4533-4417-9c72-d2b5845b8fc2" />
+
+<img width="1568" height="229" alt="Screenshot 2025-11-19 182114" src="https://github.com/user-attachments/assets/3464de65-52d2-4fc0-8564-20d8314d0c86" />
+
+<img width="1573" height="219" alt="Screenshot 2025-11-19 182125" src="https://github.com/user-attachments/assets/ddc74935-f5f7-464b-9f66-4244b4c91ac4" />
+
+### Up/Down Counter-1:
+
+<img width="1205" height="545" alt="Screenshot 2025-11-19 182232" src="https://github.com/user-attachments/assets/ec5d6d20-07f5-441b-8f2e-e104eef1cdce" />
+
+<img width="1215" height="466" alt="Screenshot 2025-11-19 182240" src="https://github.com/user-attachments/assets/5773e02f-39e8-4948-b947-74bb5c4d8a46" />
+
+<img width="1321" height="197" alt="Screenshot 2025-11-19 182251" src="https://github.com/user-attachments/assets/217a9498-ba56-43d8-8c76-13c0e1e68085" />
+
+<img width="1324" height="175" alt="Screenshot 2025-11-19 182259" src="https://github.com/user-attachments/assets/82869245-3ab2-4903-9484-9beff4e5d7a3" />
+
+<img width="1323" height="702" alt="Screenshot 2025-11-19 182314" src="https://github.com/user-attachments/assets/4880ce5c-50c2-4b33-b2ee-2acb1d676de6" />
+
+<img width="1327" height="677" alt="Screenshot 2025-11-19 182325" src="https://github.com/user-attachments/assets/a827be23-3086-42c3-996f-1c89eca206a8" />
+
+### Up/Down Counter-2:
+
+<img width="1320" height="699" alt="Screenshot 2025-11-19 182443" src="https://github.com/user-attachments/assets/04ac5cc1-f160-4bd2-9f92-a0da6f4c8e92" />
+
+<img width="1321" height="700" alt="Screenshot 2025-11-19 182456" src="https://github.com/user-attachments/assets/9b9facd9-e0d0-4203-83f1-480453ab3520" />
+
+<img width="1323" height="696" alt="Screenshot 2025-11-19 182515" src="https://github.com/user-attachments/assets/4ae1facb-7bd4-46bd-87cb-5c1e329ea562" />
 
 ### Results:
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
